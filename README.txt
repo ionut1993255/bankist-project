@@ -10,4 +10,4 @@ closing the current account.
 
 The app will logout after 2 minutes of being inactive as shown in the counter at the bottom right side of the page.
 
-
+Hope you enjoy !!!
