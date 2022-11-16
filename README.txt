@@ -14,6 +14,8 @@ closing the current account.
 
 The app will logout after 2 minutes of being inactive as shown in the counter at the bottom right side of the page.
 
+Check out the custom favicon *wink *wink
+
 Here you can see my project in action: https://ionut-bankist-project.netlify.app/
 
 Hope you enjoy !!!
